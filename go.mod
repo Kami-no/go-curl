@@ -1,3 +1,3 @@
 module github.com/parkr/go-curl
 
-go 1.15
+go 1.21
